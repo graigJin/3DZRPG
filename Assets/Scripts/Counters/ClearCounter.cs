@@ -1,3 +1,4 @@
+using Counters;
 using UnityEngine;
 
 namespace Assets.Scripts
